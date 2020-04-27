@@ -1,3 +1,6 @@
+# Descrição do projeto 
+Projeto criado para demonstar as habilidades em `React JS`, o projeto mostra o clone frontend do `pipefy` com a função `drag n' drop`, o famoso arrasta e solta dos cards para o local desejado.
+
 # Projeto Criado em React JS
 ## Utilizando as bibliotecas
 
